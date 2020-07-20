@@ -1,5 +1,5 @@
 body {
-    background-color: mediumaquamarine;
+    background-color: darkgrey;
 }
 
 #about h1,
@@ -24,10 +24,10 @@ a {
 }
 
 .card {
-    background-color: mistyrose;
+    background-color: rgb(165, 145, 142);
 }
 
 #contact .card:hover i,
 #contact .card:hover h4 {
-    color: #87D37C;
+    color: #208f77;
 }
