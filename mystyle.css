@@ -1,0 +1,33 @@
+body {
+    background-color: mediumaquamarine;
+}
+
+#about h1,
+p {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+li {
+    float: right;
+}
+
+a {
+    padding: 8px;
+    color: blue;
+}
+
+.card {
+    background-color: mistyrose;
+}
+
+#contact .card:hover i,
+#contact .card:hover h4 {
+    color: #87D37C;
+}
